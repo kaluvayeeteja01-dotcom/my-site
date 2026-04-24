@@ -48,3 +48,23 @@ body {
   justify-content: center;
   text-align: center;
 }
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.profile {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin: 20px 0;
+}
+
+h1 {
+  margin-bottom: 5px;
+}
+
+h3 {
+  margin-top: 0;
+  color: gray;
+}
